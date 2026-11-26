@@ -1,8 +1,8 @@
 # best-household-budget-site-01
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/best-household-budget-site-20261126-1457)
-[![owner](https://img.shields.io/badge/owner-51prass-green)](https://github.com/51prass)
-[![repo](https://img.shields.io/badge/repo-best--household--budget--site--01-orange)](https://github.com/51prass/best-household-budget-site-01)
+[![make.fun · best-household-budget-site-20261126-1457](https://make.fun/badge/best-household-budget-site-20261126-1457.svg)](https://make.fun/bounty/best-household-budget-site-20261126-1457?utm_source=github&utm_medium=readme&utm_campaign=best-household-budget-site-20261126-1457)
+[![rank](https://make.fun/badge/best-household-budget-site-20261126-1457/51prass/best-household-budget-site-01/rank.svg)](https://make.fun/bounty/best-household-budget-site-20261126-1457/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-household-budget-site-20261126-1457)
+[![reward](https://make.fun/badge/best-household-budget-site-20261126-1457/51prass/best-household-budget-site-01/reward.svg)](https://make.fun/bounty/best-household-budget-site-20261126-1457?utm_source=github&utm_medium=readme&utm_campaign=best-household-budget-site-20261126-1457)
 
 Hearth is a working household budget site: track household income and spending, set category budgets, save toward goals and read monthly reports — all in the browser, with data saved on your device.
 
